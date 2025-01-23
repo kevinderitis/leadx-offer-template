@@ -38,8 +38,8 @@ const productData = {
     "priceBox": {
         "header": "¡Hacé tu compra ahora y obtené un bronceado natural!",
         "discount": "¡50% DE DESCUENTO!",
-        "originalPrice": "$19.99",
-        "newPrice": "$9.99"
+        "originalPrice": "$415 pesos",
+        "newPrice": "$207 pesos"
     },
     "order": {
         "offer": "Oferta: Válida por tiempo limitado.",
