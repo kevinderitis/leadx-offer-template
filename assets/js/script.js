@@ -120,31 +120,31 @@ const productData = {
         ],
         "userReviews": [
             {
-                "name": "Sofía M.",
+                "name": "Erika",
                 "rating": 5,
                 "verified": true,
-                "comment": "Excelente producto, me dio un bronceado natural en pocos días. ¡Totalmente recomendado!",
+                "comment": "Una maravilla de producto, lo recomiendo, en muy poco tiempo logras resultados con la piel",
                 "image": "assets/images/review3.jpeg"
             },
             {
-                "name": "Carlos T.",
+                "name": "Andrea daniela",
                 "rating": 5,
                 "verified": true,
-                "comment": "Me sorprendió lo rápido que logré un color dorado sin sol. Muy fácil de usar.",
+                "comment": "Totalmente recomendado! Segundo año que lo compro y es increíble!",
                 "image": "assets/images/review6.jpeg"
             },
             {
-                "name": "Luisa D.",
+                "name": "Abel",
                 "rating": 4,
                 "verified": true,
-                "comment": "Buen producto, me dio resultados en 10 días. Me gustaría que fuera un poco más rápido.",
+                "comment": "Bueno el producto lo consumo hace varios años , para mí es el mejor , mantiene un bronceado natural y se activa al tomar un poco de sol",
                 "image": "assets/images/review7.jpeg"
             },
             {
-                "name": "Raul G.",
+                "name": "Javiera",
                 "rating": 5,
                 "verified": true,
-                "comment": "Muy contento con los resultados. Logré un bronceado uniforme sin salir al sol.",
+                "comment": "Llevo 14 meses tomando las cápsulas Nude y de verdad que mi tono de piel mejoró un montón, aparte cuando me bronceo solo uso factor 50, jamás bronceador y quedo café dorada en muy poco tiempo. También la calidad de mis uñas mejoró mucho, y se fueron las manchas! 20/10",
                 "image": "assets/images/review4.jpeg"
             }
         ]
