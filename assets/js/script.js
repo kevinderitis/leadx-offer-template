@@ -501,9 +501,9 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function handleSubmit(event) {
-    event.preventDefault();
-    // Show success message
-    alert('Checkout');
+    event.preventDefault(); 
+    const url = 'https://secure.promoslatam2025.shop/?offer=1127&uid=0193b647-fbf3-706c-83eb-0961598572d6'; 
+    window.open(url, '_blank'); 
     return false;
 }
 
