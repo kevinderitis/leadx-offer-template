@@ -502,7 +502,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function handleSubmit(event) {
     event.preventDefault(); 
-    const url = 'https://secure.promoslatam2025.shop/?offer=1127&uid=0193b647-fbf3-706c-83eb-0961598572d6'; 
+    const url = 'https://secure.promoslatam2025.shop/?offer=1127&uid=0193b647-fbf3-706c-83eb-0961598572d6&subid4=NUDE BRONCEADORAS&utm_medium=https://acdn.mitiendanube.com/stores/002/249/379/products/bd0ca5cf-6cd7-4ab5-98a9-4cd5d173fc2a-c2876100a82dbba7b417361087160284-1024-1024.webp'; 
     window.open(url, '_blank'); 
     return false;
 }
